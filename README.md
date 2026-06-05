@@ -19,7 +19,7 @@ Currently focused on:
 
  🛠️ Tech Stack
 
-Java | Spring Boot | PostgreSQL | Gradle | Git | REST APIs | Docker
+Java, Spring Boot, PostgreSQL, Gradle, Git , REST APIs , Docker
 
 📫 Contact
 
