@@ -18,7 +18,7 @@ Currently focused on:
  
  Focused on continuous learning and professional growth,
  
- Motivated by solving real-world engineering problems
+ Motivated by solving real-world engineering problems.
  
 
  🛠️ Tech Stack
