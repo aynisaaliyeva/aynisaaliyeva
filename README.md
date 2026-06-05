@@ -8,7 +8,7 @@ Currently focused on:
  Microservices Architecture,
  REST API Development,
  PostgreSQL,
- Backend System Design,
+ Backend System Design.
 
 🚀 About Me
 
