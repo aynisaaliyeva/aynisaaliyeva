@@ -1,16 +1,26 @@
-## Hi there 👋
+ 👩‍💻 Aynisa 
 
-<!--
-**aynisaaliyeva/aynisaaliyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer passionate about building scalable applications and continuously improving technical expertise.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Java & Spring Boot
+ Microservices Architecture
+ REST API Development
+ PostgreSQL
+ Backend System Design
+
+🚀 About Me
+
+ Master’s student in technology-related studies
+ Interested in clean architecture and scalable systems
+ Focused on continuous learning and professional growth
+ Motivated by solving real-world engineering problems
+
+ 🛠️ Tech Stack
+
+Java | Spring Boot | PostgreSQL | Gradle | Git | REST APIs | Docker
+
+📫 Contact
+
+Open to internship and backend development opportunities.
