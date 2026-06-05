@@ -12,10 +12,14 @@ Currently focused on:
 
 🚀 About Me
 
- Master’s student in technology-related studies
- Interested in clean architecture and scalable systems
- Focused on continuous learning and professional growth
+ Master’s student in technology-related studies,
+ 
+ Interested in clean architecture and scalable systems,
+ 
+ Focused on continuous learning and professional growth,
+ 
  Motivated by solving real-world engineering problems
+ 
 
  🛠️ Tech Stack
 
