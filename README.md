@@ -1,14 +1,14 @@
  👩‍💻 Aynisa 
 
-Backend-focused Software Engineer passionate about building scalable applications and continuously improving technical expertise.
+Backend-focused Software Engineer 
 
 Currently focused on:
 
- Java & Spring Boot
- Microservices Architecture
- REST API Development
- PostgreSQL
- Backend System Design
+ Java & Spring Boot,
+ Microservices Architecture,
+ REST API Development,
+ PostgreSQL,
+ Backend System Design,
 
 🚀 About Me
 
