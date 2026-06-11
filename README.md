@@ -10,10 +10,4 @@ Currently focused on:
  PostgreSQL,
  Backend System Design.
  
- 🛠️ Tech Stack
-
-Java, Spring Boot, PostgreSQL, Gradle, Git , REST APIs , Docker
-
-📫 Contact
-
-Open to internship and backend development opportunities.
+ 
